@@ -1,0 +1,38 @@
+**Negrito** ou __Negrito__
+*Italico*
+# Titulo nivel 1
+## Tirulo nivel 2
+### Titulo Nivel 3
+Linha em horizontal baixo --- ou ***
+
+Lista Numerada:
+1. item 1
+2.    1. Três espaços viram subitem
+3. items...rs
+
+Lista demarcada
+* Item 1
+   * três espaços, subitem.
+
+ Listas de tarefas:
+ - [ ] Tarefa 1 não concluida
+ - [x] Tarefa 2 concluida
+
+imagem é só arrastar [descrição entre os colchetes]
+ou ![descrição](link)
+
+Link é igual imagem mas sem a exclamação
+[texto do link](atalho)
+
+Tabelas
+Coluna 1 | Coluna 2 | Coluna 3
+---|---|---
+Dado 1 | Dado 2 | dado 3
+
+`Colocar codigo é entre crases`
+``` Codigo grande com mais de um alinha ```
+
+: digite o nome do emoji e ele coloca o emoji
+
+>conversa de uma pessoa
+Comentario abaixo da linha do sinal de maior
